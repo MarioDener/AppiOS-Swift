@@ -22,7 +22,7 @@ class ViewController: UIViewController {
         /*
             http:// openweathermap.org/data/2.5/weather?q=mex
         */
-        self.view.backgroundColor = UIColor(patternImage: UIImage(named: "1401215.jpg")!)
+//        self.view.backgroundColor = UIColor(patternImage: UIImage(named: "1401215.jpg")!)
         // Do any additional setup after loading the view, typically from a nib.
     }
     

@@ -13,7 +13,6 @@
 		9E393AF51AF19FCB00B36F1A /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 9E393AF41AF19FCB00B36F1A /* Images.xcassets */; };
 		9E393AF81AF19FCB00B36F1A /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = 9E393AF61AF19FCB00B36F1A /* LaunchScreen.xib */; };
 		9E393B041AF19FCB00B36F1A /* WebServiceClimaTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9E393B031AF19FCB00B36F1A /* WebServiceClimaTests.swift */; };
-		9E393B0F1AF1ADFA00B36F1A /* 1401215.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 9E393B0E1AF1ADFA00B36F1A /* 1401215.jpg */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -37,7 +36,6 @@
 		9E393AFD1AF19FCB00B36F1A /* WebServiceClimaTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = WebServiceClimaTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		9E393B021AF19FCB00B36F1A /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		9E393B031AF19FCB00B36F1A /* WebServiceClimaTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WebServiceClimaTests.swift; sourceTree = "<group>"; };
-		9E393B0E1AF1ADFA00B36F1A /* 1401215.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = 1401215.jpg; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -118,7 +116,6 @@
 		9E393B0D1AF1ADD300B36F1A /* background */ = {
 			isa = PBXGroup;
 			children = (
-				9E393B0E1AF1ADFA00B36F1A /* 1401215.jpg */,
 			);
 			name = background;
 			sourceTree = "<group>";
@@ -203,7 +200,6 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				9E393B0F1AF1ADFA00B36F1A /* 1401215.jpg in Resources */,
 				9E393AF31AF19FCB00B36F1A /* Main.storyboard in Resources */,
 				9E393AF81AF19FCB00B36F1A /* LaunchScreen.xib in Resources */,
 				9E393AF51AF19FCB00B36F1A /* Images.xcassets in Resources */,
@@ -421,6 +417,7 @@
 				9E393B091AF19FCB00B36F1A /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		9E393B0A1AF19FCB00B36F1A /* Build configuration list for PBXNativeTarget "WebServiceClimaTests" */ = {
 			isa = XCConfigurationList;
@@ -429,6 +426,7 @@
 				9E393B0C1AF19FCB00B36F1A /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
